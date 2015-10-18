@@ -1,0 +1,5 @@
+1000,password,Ameenah Burhan,555-555-5555,Admin,,
+1001,password,Earl Smith,543-355-3564,Employee,,
+1002,password,Jackie Thompson,453-535-3245,Employee,,
+1003,password,Robert Jones,323-343-5553,Employee,,
+1004,password,Ann Perkinson,234-455-6432,Employee,,

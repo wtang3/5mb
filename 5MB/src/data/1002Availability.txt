@@ -1,0 +1,11 @@
+Monday,8:00 AM,5:00 PM
+Tuesday,_,_
+Wednesday,_,_
+
+Thursday,_,_
+Friday,_,_
+
+Saturday,_,_
+
+Sunday,_,_
+<schedule>amen.txt</schedule>
